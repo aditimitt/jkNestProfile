@@ -47,6 +47,7 @@ This project demonstrates a backend application built with NestJS, focused on:
 
 ### **Prerequisites**
 - [Node.js](https://nodejs.org/) (v16+)
+- [NestJS CLI](https://docs.nestjs.com/cli/overview) (v9+): Install it globally using `npm i -g @nestjs/cli`
 - [PostgreSQL](https://www.postgresql.org/)  
 - [Python](https://www.python.org/) backend for ingestion (optional but recommended).
 
